@@ -1,0 +1,11 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsService1\playConsole\bin\Debug\playConsole.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsService1\playConsole\bin\Debug\playConsole.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsService1\playConsole\bin\Debug\playConsole.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsService1\playConsole\obj\Debug\playConsole.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\WindowsService1\playConsole\obj\Debug\playConsole.pdb
+H:\服务\C#源码\WindowsService1\playConsole\bin\Debug\playConsole.exe.config
+H:\服务\C#源码\WindowsService1\playConsole\obj\Debug\playConsole.exe
+H:\服务\C#源码\WindowsService1\playConsole\obj\Debug\playConsole.pdb
+I:\WindowsService1\playConsole\bin\Debug\playConsole.exe.config
+I:\WindowsService1\playConsole\obj\Debug\playConsole.exe
+I:\WindowsService1\playConsole\obj\Debug\playConsole.pdb
